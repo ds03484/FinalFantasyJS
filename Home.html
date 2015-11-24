@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="jumbotron">
+        <div ng-repeat="character in characters">
+            <a href="#/characters/{{$index}}">
+                <img ng-src="{{ character.photo}}">
+                <p>{{ character.name}}</p>
+            </a>
+        </div>
+    </div>
+</div>

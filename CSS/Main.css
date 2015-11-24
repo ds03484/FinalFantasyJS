@@ -1,0 +1,10 @@
+body{
+    background-image: url("/FinalFantasyJS/Images/Cosmos_Throne.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width: 500px;
+    height: 200px;
+}

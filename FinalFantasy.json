@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cloud Scrife",
+    "game": "Final Fantasy VII",
+    "photo": "/FinalFantasyJS/Images/final-fantasy-vii-advent-children.jpg",
+    "bio": "Cloud was a soldier in the army,but after a tragic event he lost his memories of his past."
+  },
+  {
+    "name": "Tidus",
+    "game": "Final Fantasy X",
+    "photo": "/FinalFantasyJS/Images/Final-Fantasy-X-HD.jpg",
+    "bio": "Ace Player of the Zanerkand Abes, just when life was great he was sent 1000 years into the future by a monster called sin."
+
+  },
+  {
+    "name": "Sephiroth",
+    "game": "Final Fantasy VII",
+    "photo": "/FinalFantasyJS/Images/Final-Fantasy-43.jpg",
+    "bio": "The most notorious antagonist in Final Fantasy history, after discovering he was made for war sephiroth went on a rampage killing all in sight."
+  },
+  {
+    "name": "Terra Bradford",
+    "game": "Final Fantasy VI",
+    "photo": "/FinalFantasyJS/Images/images.jpg",
+    "bio": "The first female protagonist in Final Fantasy, she has enormous powers that was used for war."
+  }
+]

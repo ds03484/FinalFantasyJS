@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Fantasy Info Site</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.min.js"></script>
+    <link href="/FinalFantasyJS/CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="/FinalFantasyJS/CSS/Main.css" rel="stylesheet" />
+</head>
+<body ng-app="FinalFantasyApp">
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Welcome to the Final Fantasy Info Site</h1>
+
+            <p>
+                This website provides some basic information about some characters from one of my
+            favorite video game series "Final Fantasy".
+            </p>
+            <br />
+            <h2>Click on the picture to learn about the character</h2>
+
+            <div ng-view></div>
+        </div>
+    </div>
+
+
+    <script src="/FinalFantasyJS/Javascript/app.js" type="text/javascript"></script>
+    <script src="/FinalFantasyJS/Javascript/service.js" type="text/javascript"></script>
+    <script src="/FinalFantasyJS/Javascript/Controllers.js" type="text/javascript"></script>
+</body>
+</html>
